@@ -1,0 +1,6 @@
+{
+  "name": "SIMPANDADU — Sistem Informasi Desa Adimulya",
+  "description": "Sistem Informasi Perencanaan dan Administrasi Desa Adimulya Terpadu untuk layanan masyarakat, data kependudukan, tata ruang, keuangan APBDes, dan aset desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
